@@ -1,4 +1,21 @@
 # Technical Appendices
-![meo](exec_memo.pdf)
+[!1](1.png)
+[!2](2.png)
+[!3](3.png)
+[!4](4.png)
+[!5](5.png)
+[!6](6.png)
+[!7](7.png)
+[!8](8.png)
+[!9](9.png)
+[!pic1](picture1.png)
+[!pic2](picture2.png)
+[!pic3](picture3.png)
+[!pic4](picture4.png)
+[!pic5](picture5.png)
+[!pic6](picture6.png)
+[!pic7](picture7.png)
+[!pic8](picture8.png)
+[!pic9](picture9.png)
 
 
